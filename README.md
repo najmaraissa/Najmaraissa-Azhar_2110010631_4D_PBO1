@@ -49,8 +49,8 @@ public Walimurid(String walimurid, String nisn) {
     this.nisn = nisn;
 }
 
-public MahasiswaDetail(String nama, String npm) {
-    super(nama, npm);
+public WaliMuridDetail(String walimurid, String nisn) {
+    super(walimurid, nisn);
 }
 ```
 
